@@ -12,6 +12,7 @@
 		8F63A9C31D2158A000527729 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F63A9C11D2158A000527729 /* Main.storyboard */; };
 		8F63A9C51D2158A000527729 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F63A9C41D2158A000527729 /* Assets.xcassets */; };
 		8F63A9C81D2158A000527729 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F63A9C61D2158A000527729 /* LaunchScreen.storyboard */; };
+		8F63A9D01D21736800527729 /* Minecrafter.Alt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F63A9CF1D21736800527729 /* Minecrafter.Alt.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8F63A9C41D2158A000527729 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F63A9C71D2158A000527729 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F63A9C91D2158A000527729 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F63A9CF1D21736800527729 /* Minecrafter.Alt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecrafter.Alt.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		8F63A9BC1D2158A000527729 /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				8F63A9CF1D21736800527729 /* Minecrafter.Alt.ttf */,
 				8F63A9BD1D2158A000527729 /* AppDelegate.swift */,
 				8F63A9BF1D2158A000527729 /* ViewController.swift */,
 				8F63A9C11D2158A000527729 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				8F63A9C81D2158A000527729 /* LaunchScreen.storyboard in Resources */,
 				8F63A9C51D2158A000527729 /* Assets.xcassets in Resources */,
+				8F63A9D01D21736800527729 /* Minecrafter.Alt.ttf in Resources */,
 				8F63A9C31D2158A000527729 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
